@@ -9,8 +9,8 @@
 ---
 >QUALITY IS NOT AN ACT, IT IS A HABIT -- ARISTOTLE
 >
->Her/She/Her's<
+>Her/She/Her's
 >
->How to reach me--mh3854@drexel.edu<
+>How to reach me--mh3854@drexel.edu
 >
->Learning how to do some basic coding<
+>Learning how to do some basic coding
