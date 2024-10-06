@@ -14,3 +14,5 @@
 >How to reach me mh3854@drexel.edu
 >
 >Learning how to do some basic coding
+
+My favorite GitHub repository is [Computer Science Class] (https://github.com/ossu/computer-science/tree/master/coursepages/intro-cs)
